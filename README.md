@@ -8,7 +8,7 @@ Type of audit: Security Assessment & Formal Verification Report
 
 Dates: 18 January 2024 to 7 March 2024
 
-Report: [Certora Audit report](./audit-reports/Certora Audit report.pdf)
+Report: [Certora Audit report](audit-reports/Certora%20Audit%20report.pdf)
 
 ### ChainSecurity
 
@@ -16,7 +16,7 @@ Type of audit: Security Assessment
 
 Dates: 8 January 2024 to 09 February 2024
 
-Report: [ChainSecurity Audit report](./audit-reports/ChainSecurity Audit report.pdf)
+Report: [ChainSecurity Audit report](audit-reports/ChainSecurity%20Audit%20report.pdf)
 
 ### Independent Security Researcher
 
@@ -24,7 +24,7 @@ Type of audit: Security Assessment
 
 Dates: 19 February 2024 to 23 February 2024
 
-Report: [Independent Security Auditor report](./audit-reports/Independent Security Auditor Report.md)
+Report: [Independent Security Auditor report](audit-reports/Independent%20Security%20Auditor%20Report.md)
 
 ### OpenZeppelin
 
@@ -32,7 +32,7 @@ Type of audit: Security Assessment
 
 Dates: 8 January 2024 to 9 February 2024
 
-Report: [OpenZeppelin Audit report](./audit-reports/OpenZeppelin Audit Report.pdf)
+Report: [OpenZeppelin Audit report](audit-reports/OpenZeppelin%20Audit%20Report.pdf)
 
 ### Prototech Labs
 
@@ -40,7 +40,7 @@ Type of audit: Security Assessment & Invariant Test Suite
 
 Dates: 8 January 2024 to 9 February 2024
 
-Report : [Prototech Labs Audit report](./audit-reports/Prototech Labs Audit Report.pdf)
+Report : [Prototech Labs Audit report](audit-reports/Prototech%20Labs%20Audit%20Report.pdf)
 
 ### Quantstamp
 
@@ -48,9 +48,9 @@ Type of audit: Security Assessment
 
 Dates: 8 January 2024 to 29 January 2024
 
-Report: [Quantstamp Audit report](./audit-reports/Quantstamp Audit Report.pdf)
+Report: [Quantstamp Audit report](audit-reports/Quantstamp%20Audit%20Report.pdf)
 
-Fixes review: [Quantstamp Fixes review](./audit-reports/Quantstamp External Fix Review.pdf)
+Fixes review: [Quantstamp Fixes review](audit-reports/Quantstamp%20External%20Fix%20Review.pdf)
 
 ### ThreeSigma
 
@@ -58,7 +58,7 @@ Type of audit: Security Assessment
 
 Dates: 8 January 2024 to 2 February 2024
 
-Report: [ThreeSigma Audit report](./audit-reports/ThreeSigma Audit Report.pdf)
+Report: [ThreeSigma Audit report](audit-reports/ThreeSigma%20Audit%20Report.pdf)
 
 ## Code Documentation
 
@@ -68,7 +68,7 @@ Common contracts and libraries used across the various M^0 Solidity projects.
 
 Repository: https://github.com/MZero-Labs/common
 
-Documentation: [Common Documentation](./docs/common/book/index.html)
+Documentation: [Common Documentation](./docs/common/src/SUMMARY.md)
 
 ### Protocol
 
@@ -76,7 +76,7 @@ M^0 is an EVM-compatible, immutable protocol that enables minting and burning of
 
 Repository: https://github.com/MZero-Labs/protocol
 
-Documentation: [Protocol Documentation](./docs/protocol/book/index.html)
+Documentation: [Protocol Documentation](./docs/protocol/src/SUMMARY.md)
 
 ### TTG
 
@@ -84,4 +84,4 @@ A TTG, "Two Token Governance" is a governance mechanism that uses token voting t
 
 Repository: https://github.com/MZero-Labs/ttg
 
-Documentation: [TTG Documentation](./docs/ttg/book/index.html)
+Documentation: [TTG Documentation](./docs/ttg/src/SUMMARY.md)
