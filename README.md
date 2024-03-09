@@ -11,6 +11,35 @@ $$\  \$$ |      $$ |      $$ |$$ |  $$ |\$$$$$$$ |      $$$$$$$  |\$$$$$$  |\$$$
  \_$$  _/                                                                   $$\   $$ |                 \_$$  _/ 
    \ _/                                                                     \$$$$$$  |                   \ _/   
 ```      
+## Code Documentation
+
+### Common
+
+Common contracts and libraries used across the various M^0 Solidity projects.
+
+Repository: https://github.com/MZero-Labs/common
+
+Documentation: [Common Documentation](./docs/common/src/SUMMARY.md)
+
+### Protocol
+
+M^0 is an EVM-compatible, immutable protocol that enables minting and burning of the ERC20 token $M. It also allows for $M distributions to yield earners and governance token ($ZERO) holders. There are three main types of actors in the protocol - Minters, Validators, and Yield Earners - all of which are permissioned via governance. Protocol variables are also managed by governance and are stored in a Registrar configuration contract.
+
+Repository: https://github.com/MZero-Labs/protocol
+
+Engineering spec: [Protocol engineering spec](eng-specs/M%5E0%20Protocol%20Engineering%20Spec_v1.1.pdf)
+
+Documentation: [Protocol Documentation](./docs/protocol/src/SUMMARY.md)
+
+### TTG
+
+A TTG, "Two Token Governance" is a governance mechanism that uses token voting to maintain lists and manage communal property. As its name implies, it primarily optimizes for token holder participation. A TTG is primarily used for permissioning actors and should not be used for funding/financing decisions.
+
+Repository: https://github.com/MZero-Labs/ttg
+
+Engineering spec: [TTG engineering spec](eng-specs/M%5E0%20TTG%20Engineering%20Spec_v1.1.pdf)
+
+Documentation: [TTG Documentation](./docs/ttg/src/SUMMARY.md)
 
 ## Previous Audits
 
@@ -71,29 +100,3 @@ Type of audit: Security Assessment
 Dates: 8 January 2024 to 2 February 2024
 
 Report: [ThreeSigma Audit report](audit-reports/ThreeSigma%20Audit%20Report.pdf)
-
-## Code Documentation
-
-### Common
-
-Common contracts and libraries used across the various M^0 Solidity projects.
-
-Repository: https://github.com/MZero-Labs/common
-
-Documentation: [Common Documentation](./docs/common/src/SUMMARY.md)
-
-### Protocol
-
-M^0 is an EVM-compatible, immutable protocol that enables minting and burning of the ERC20 token $M. It also allows for $M distributions to yield earners and governance token ($ZERO) holders. There are three main types of actors in the protocol - Minters, Validators, and Yield Earners - all of which are permissioned via governance. Protocol variables are also managed by governance and are stored in a Registrar configuration contract.
-
-Repository: https://github.com/MZero-Labs/protocol
-
-Documentation: [Protocol Documentation](./docs/protocol/src/SUMMARY.md)
-
-### TTG
-
-A TTG, "Two Token Governance" is a governance mechanism that uses token voting to maintain lists and manage communal property. As its name implies, it primarily optimizes for token holder participation. A TTG is primarily used for permissioning actors and should not be used for funding/financing decisions.
-
-Repository: https://github.com/MZero-Labs/ttg
-
-Documentation: [TTG Documentation](./docs/ttg/src/SUMMARY.md)
