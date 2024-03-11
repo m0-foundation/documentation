@@ -69,7 +69,7 @@ Type of audit: Security Assessment
 
 Dates: 19 February 2024 to 23 February 2024
 
-Report: [Independent Security Auditor report](audit-reports/Independent%20Security%20Auditor%20Report.md)
+Report: [Independent Security Auditor report](audit-reports/Kirill%20Fedoseev%20Independent%20Auditor%20Report.md)
 
 ### OpenZeppelin
 
