@@ -269,7 +269,7 @@ Returns the target supply, which helps determine the amount of tokens up for auc
 linearly, with time, to some "rightPoint" (which is half of that "leftPoint"). This is done by
 computing the weighted average between the "leftPoint" and "rightPoint" for the time remaining in
 the auction period.
-- For the next next auction period, the new "leftPoint" is half of the previous period's "leftPoint"
+- For the next auction period, the new "leftPoint" is half of the previous period's "leftPoint"
 (which also equals the previous period's "rightPoint").
 - Combined, this results in the price decreasing by half every auction period at a macro level, but
 decreasing linearly at a micro-level during each period, without any jumps.
