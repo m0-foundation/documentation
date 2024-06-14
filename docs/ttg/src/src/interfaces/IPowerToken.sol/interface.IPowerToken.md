@@ -181,7 +181,7 @@ event Buy(address indexed buyer, uint240 amount, uint256 cost);
 
 |Name|Type|Description|
 |----|----|-----------|
-|`buyer`|`address`| The address of account that bought tokens from the auction.|
+|`buyer`|`address`| The address of the account that bought tokens from the auction.|
 |`amount`|`uint240`|The amount of tokens bought.|
 |`cost`|`uint256`|  The total cash token cost of the purchase.|
 
