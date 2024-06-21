@@ -1,7 +1,5 @@
 # Audit reports and fixes
 
-NOTE!! Reports are not yet finalized by most of the auditors. Final versions will be updated once we get them.
-
 Since January 8th we had 7 simultaneous audits with:
 
 - Independent security advisor - Kirill Fedoseev
@@ -11,6 +9,8 @@ Since January 8th we had 7 simultaneous audits with:
 - Quantstamp
 - OpenZeppelin
 - Certora
+
+In addition to the [final audit / code competition by Sherlock](https://audits.sherlock.xyz/contests/124).
 
 You can find here all the reports we received.
 
