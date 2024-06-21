@@ -1,6 +1,6 @@
 ## Documentation
 
-Start with [Whitepaper](https://docs.m0.org/m-0-documentation-portal)
+[Whitepaper](https://docs.m0.org/m-0-documentation-portal)
 
 ### Common
 
@@ -36,7 +36,7 @@ Documentation: [TTG Documentation](./docs/ttg/src/SUMMARY.md)
 
 Type of audit: Security Assessment & Formal Verification Report
 
-Dates: 18 January 2024 to 7 March 2024
+Dates: 18 January 2024 to April 2024
 
 Report: [Certora Audit report](audit-reports/Certora%20Audit%20report.pdf)
 
@@ -44,7 +44,7 @@ Report: [Certora Audit report](audit-reports/Certora%20Audit%20report.pdf)
 
 Type of audit: Security Assessment
 
-Dates: 8 January 2024 to 09 February 2024
+Dates: 8 January 2024 to April 2024
 
 Report: [ChainSecurity Audit report](audit-reports/ChainSecurity%20Audit%20report.pdf)
 
@@ -52,7 +52,7 @@ Report: [ChainSecurity Audit report](audit-reports/ChainSecurity%20Audit%20repor
 
 Type of audit: Security Assessment
 
-Dates: 19 February 2024 to 23 February 2024
+Dates: 19 February 2024 to April 2024
 
 Report: [Independent Security Auditor report](audit-reports/Kirill%20Fedoseev%20Independent%20Auditor%20Report.md)
 
@@ -60,7 +60,7 @@ Report: [Independent Security Auditor report](audit-reports/Kirill%20Fedoseev%20
 
 Type of audit: Security Assessment
 
-Dates: 8 January 2024 to 9 February 2024
+Dates: 8 January 2024 to March 2024
 
 Report: [OpenZeppelin Audit report](audit-reports/OpenZeppelin%20Audit%20Report.pdf)
 
@@ -76,7 +76,7 @@ Report: [Prototech Labs Audit report](audit-reports/Prototech%20Labs%20Audit%20R
 
 Type of audit: Security Assessment
 
-Dates: 8 January 2024 to 29 January 2024
+Dates: 8 January 2024 to April 2024
 
 Report: [Quantstamp Audit report](audit-reports/Quantstamp%20Audit%20Report.pdf)
 
@@ -86,6 +86,15 @@ Fixes review: [Quantstamp Fixes review](audit-reports/Quantstamp%20External%20Fi
 
 Type of audit: Security Assessment
 
-Dates: 8 January 2024 to 2 February 2024
+Dates: 8 January 2024 to April 2024
 
 Report: [ThreeSigma Audit report](audit-reports/ThreeSigma%20Audit%20Report.pdf)
+
+### Sherlock
+
+Type of audit: [Audit contest](https://audits.sherlock.xyz/contests/124)
+
+Dates: 11 March 2024 to 27 March 2024
+
+Report: [Sherlock Audit report](audit-reports/Sherlock%20Audit%20Report.pdf)
+
