@@ -88,7 +88,7 @@ function rateModel() external view returns (address);
 
 ### earnerRate
 
-The current value of earner rate in basis points.
+The current value of the earner rate in basis points.
 
 
 ```solidity

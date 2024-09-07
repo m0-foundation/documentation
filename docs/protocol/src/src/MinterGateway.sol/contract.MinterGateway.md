@@ -299,7 +299,7 @@ function mintM(uint256 mintId_)
 
 Burns M tokens
 
-*If amount to burn is greater than minter's owedM including penalties, burn all up to owedM.*
+*If the amount to burn is greater than minter's owedM including penalties, burn all up to owedM.*
 
 
 ```solidity
@@ -324,7 +324,7 @@ function burnM(address minter_, uint256 maxAmount_) external returns (uint112 pr
 
 Burns M tokens
 
-*If amount to burn is greater than minter's owedM including penalties, burn all up to owedM.*
+*If the amount to burn is greater than minter's owedM including penalties, burn all up to owedM.*
 
 
 ```solidity
@@ -350,7 +350,7 @@ function burnM(address minter_, uint256 maxPrincipalAmount_, uint256 maxAmount_)
 
 ### cancelMint
 
-Cancels minting request for selected minter by validator
+Cancels minting request for selected minter by the validator
 
 
 ```solidity
@@ -478,7 +478,7 @@ function minterRate() external view returns (uint32);
 
 ### isActiveMinter
 
-Checks if minter was activated after approval by TTG
+Checks if the minter was activated after approval by TTG
 
 
 ```solidity
@@ -496,7 +496,7 @@ function isDeactivatedMinter(address minter_) external view returns (bool);
 
 ### isFrozenMinter
 
-Checks if minter was frozen by validator
+Checks if the minter was frozen by validator
 
 
 ```solidity

@@ -19,7 +19,7 @@ function DOMAIN_SEPARATOR() external view returns (bytes32);
 
 ## Errors
 ### InvalidSignature
-Revert message when an invalid signature is detected.
+Revert the message when an invalid signature is detected.
 
 
 ```solidity
@@ -27,7 +27,7 @@ error InvalidSignature();
 ```
 
 ### InvalidSignatureLength
-Revert message when a signature with invalid length is detected.
+Revert the message when a signature with an invalid length is detected.
 
 
 ```solidity
@@ -35,7 +35,7 @@ error InvalidSignatureLength();
 ```
 
 ### InvalidSignatureS
-Revert message when the S portion of a signature is invalid.
+Revert the message when the S portion of a signature is invalid.
 
 
 ```solidity
@@ -43,7 +43,7 @@ error InvalidSignatureS();
 ```
 
 ### InvalidSignatureV
-Revert message when the V portion of a signature is invalid.
+Revert the message when the V portion of a signature is invalid.
 
 
 ```solidity
@@ -51,7 +51,7 @@ error InvalidSignatureV();
 ```
 
 ### SignatureExpired
-Revert message when a signature is being used beyond its deadline (i.e. expiry).
+Revert the message when a signature is being used beyond its deadline (i.e. expiry).
 
 
 ```solidity

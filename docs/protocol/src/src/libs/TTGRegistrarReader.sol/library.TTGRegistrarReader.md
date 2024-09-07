@@ -106,7 +106,7 @@ bytes32 internal constant UPDATE_COLLATERAL_INTERVAL = "update_collateral_interv
 
 
 ### UPDATE_COLLATERAL_VALIDATOR_THRESHOLD
-The name of parameter that defines number of signatures required for successful collateral update
+The name of parameter that defines number of signatures required for a successful collateral update
 
 
 ```solidity

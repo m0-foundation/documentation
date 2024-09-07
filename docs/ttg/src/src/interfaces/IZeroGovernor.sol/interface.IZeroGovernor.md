@@ -157,7 +157,7 @@ event AllowedCashTokensSet(address[] allowedCashTokens);
 
 |Name|Type|Description|
 |----|----|-----------|
-|`allowedCashTokens`|`address[]`|An array of addressed that are allowed as cash tokens.|
+|`allowedCashTokens`|`address[]`|An array of addresses that are allowed as cash tokens.|
 
 ### ResetExecuted
 Emitted upon a Reset, resulting in a new Standard Governor, Emergency Governor, and Power Token.
