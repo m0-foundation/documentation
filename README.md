@@ -96,5 +96,5 @@ Type of audit: [Audit contest](https://audits.sherlock.xyz/contests/124)
 
 Dates: 11 March 2024 to 27 March 2024
 
-Report: [Sherlock Audit report](audit-reports/Sherlock%20Audit%20Report.pdf)
+Report: [Sherlock Audit report](protocol-audit-reports/Sherlock%20Audit%20Report.pdf)
 
