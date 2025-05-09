@@ -319,7 +319,7 @@ function mintM(uint256 mintId_) external onlyActiveMinter onlyUnfrozenMinter;
 
 Burns M tokens
 
-*If amount to burn is greater than minter's outstandingValue including penalties, burn all outstandingValue*
+*If the amount to burn is greater than the minter's outstandingValue including penalties, burn all outstandingValue*
 
 
 ```solidity
@@ -335,7 +335,7 @@ function burnM(address minter_, uint256 maxAmount_) external;
 
 ### cancelMint
 
-Cancels minting request for selected minter by validator
+Cancels minting request for selected minter by the validator
 
 
 ```solidity
@@ -465,7 +465,7 @@ function excessActiveOwedM() public view returns (uint256 getExcessOwedM_);
 
 ### minterRate
 
-The last saved value of Minter rate.
+The last saved value of the Minter rate.
 
 
 ```solidity
@@ -474,7 +474,7 @@ function minterRate() external view returns (uint256 minterRate_);
 
 ### activeOwedMOf
 
-The active owed M of minter.
+The active owed M of the minter.
 
 
 ```solidity

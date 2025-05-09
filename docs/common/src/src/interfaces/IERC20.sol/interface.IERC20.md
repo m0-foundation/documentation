@@ -22,7 +22,7 @@ function approve(address spender, uint256 amount) external returns (bool);
 
 |Name|Type|Description|
 |----|----|-----------|
-|`spender`|`address`|The address of the account being allowed to spend up to the allowed amount.|
+|`spender`|`address`|The address of the account is allowed to spend up to the allowed amount.|
 |`amount`|`uint256`| The amount of the allowance being approved.|
 
 **Returns**

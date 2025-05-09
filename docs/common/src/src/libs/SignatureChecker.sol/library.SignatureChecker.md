@@ -169,7 +169,7 @@ function recoverECDSASigner(bytes32 digest, bytes memory signature) internal pur
 |Name|Type|Description|
 |----|----|-----------|
 |`<none>`|`Error`|An error, if any, that occurred during the signer recovery.|
-|`<none>`|`address`|The address of the account recovered form the signature (0 if error).|
+|`<none>`|`address`|The address of the account recovered from the signature (0 if error).|
 
 
 ### recoverECDSASigner

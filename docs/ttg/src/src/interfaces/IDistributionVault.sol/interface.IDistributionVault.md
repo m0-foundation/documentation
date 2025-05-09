@@ -26,7 +26,7 @@ function claim(address token, uint256 startEpoch, uint256 endEpoch, address dest
 |`token`|`address`|      The address of the token being claimed.|
 |`startEpoch`|`uint256`| The starting epoch number as a clock value.|
 |`endEpoch`|`uint256`|   The ending epoch number as a clock value.|
-|`destination`|`address`|The address the account where the claimed token will be sent.|
+|`destination`|`address`|The address of the account where the claimed token will be sent.|
 
 **Returns**
 

@@ -111,7 +111,7 @@ function mintM(uint256 mintId) external returns (uint112 principalAmount, uint24
 
 Burns M tokens
 
-*If amount to burn is greater than minter's owedM including penalties, burn all up to owedM.*
+*If the amount to burn is greater than the minter's owedM including penalties, burn all up to owedM.*
 
 
 ```solidity
@@ -136,7 +136,7 @@ function burnM(address minter, uint256 maxAmount) external returns (uint112 prin
 
 Burns M tokens
 
-*If amount to burn is greater than minter's owedM including penalties, burn all up to owedM.*
+*If the amount to burn is greater than the minter's owedM including penalties, burn all up to owedM.*
 
 
 ```solidity
@@ -162,7 +162,7 @@ function burnM(address minter, uint256 maxPrincipalAmount, uint256 maxAmount)
 
 ### cancelMint
 
-Cancels minting request for selected minter by validator
+Cancels minting request for selected minter by the validator
 
 
 ```solidity
